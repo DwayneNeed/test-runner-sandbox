@@ -4,3 +4,8 @@
 
 *.suo
 /.vs
+/TestRunnerSandbox/.vs
+/TestRunnerSandbox/TestRunner/bin/Debug/net5.0
+/TestRunnerSandbox/TestRunner/obj
+/TestRunnerSandbox/Tests/bin/Debug/net5.0
+/TestRunnerSandbox/Tests/obj
